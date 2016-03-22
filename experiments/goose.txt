@@ -1,0 +1,206 @@
+102
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-27_136026.html
+[u'poor', u'construction', u',', u'lax', u'safety', u'checks', u'blamed', u'for', u'china', u'rest', u'home', u'fire', u'that', u'killed', u'38'] [u'poor', u'construction', u',', u'lax', u'safety', u'checks', u'blamed', u'for', u'china', u'rest', u'home', u'fire', u'that', u'killed', u'38'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-02_865040.html
+[] [u'progressives', u"'", u'deplorable', u'reaction', u'to', u'the', u'planned', u'parenthood', u'shooting'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-05_887207.html
+[u'charges', u'upgraded', u'to', u'murder', u'in', u'ohio', u'toddler', u'abuse', u'case'] [u'charges', u'upgraded', u'to', u'murder', u'in', u'ohio', u'toddler', u'abuse', u'case'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-02_1041917.html
+[u'brentford', u'beaten', u'by', u'late', u'goal', u'at', u'birmingham'] [u'brentford', u'beaten', u'by', u'late', u'goal', u'at', u'birmingham'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g8836.html
+[u'police', u':', u'waukegan', u'man', u'kills', u'woman', u'in', u'front', u'of', u'her', u'daughter'] [u'police', u':', u'waukegan', u'man', u'kills', u'woman', u'in', u'front', u'of', u'her', u'daughter'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-16_130964.html
+[u'suspect', u',', u'victim', u'in', u'fatal', u'ca\xf1on', u'city', u'shootings', u'identified'] [u'suspect', u',', u'victim', u'in', u'fatal', u'ca\xf1on', u'city', u'shootings', u'identified'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-04_1051100.html
+[u'search', u'on', u'for', u'killer', u'after', u'volunteer', u'firefighter', u'stabbed', u'at', u'new', u'year', u"'s", u'eve', u'party', u'in', u'orange', u'county'] [u'search', u'on', u'for', u'killer', u'after', u'volunteer', u'firefighter', u'stabbed', u'at', u'new', u'year', u"'s", u'eve', u'party', u'in', u'orange', u'county'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g13113.html
+[u'dying', u'for', u'a', u'cigarette', u'in', u'new', u'york'] [u'dying', u'for', u'a', u'cigarette', u'in', u'new', u'york'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-16_130824.html
+[u'man', u'dies', u'after', u'vaughan', u'industrial', u'incident', u':', u'police'] [u'man', u'dies', u'after', u'vaughan', u'industrial', u'incident', u':', u'police'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-17_131256.html
+[u'deaf', u'man', u"'s", u'body', u'found', u'in', u'co', u'down', u'flat', u'three', u'weeks', u'after', u'dying'] [u'deaf', u'man', u"'s", u'body', u'found', u'in', u'co', u'down', u'flat', u'three', u'weeks', u'after', u'dying'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-23_1970.html
+[u'after', u'man', u'shot', u'dead', u'by', u'police', u'in', u'hollygrove', u',', u'family', u'wants', u'answers'] [u'after', u'man', u'shot', u'dead', u'by', u'police', u'in', u'hollygrove', u',', u'family', u'wants', u'answers'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-28_136224.html
+[u'suit', u'filed', u'in', u'ferguson', u'police', u'killing', u'moves', u'to', u'federal', u'court'] [u'suit', u'filed', u'in', u'ferguson', u'police', u'killing', u'moves', u'to', u'federal', u'court'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-09_1083250.html
+[u'coast', u'guard', u'monitoring', u'potential', u'pollution', u'from', u'sunken', u'boat', u'in', u'mississippi', u'river'] [u'coast', u'guard', u'monitoring', u'potential', u'pollution', u'from', u'sunken', u'boat', u'in', u'mississippi', u'river'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g12434.html
+[u'charlie', u'hebdo', u'attack', u'investigator', u'commits', u'suicide', u':', u'reports'] [u'charlie', u'hebdo', u'attack', u'investigator', u'commits', u'suicide', u':', u'reports'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-05_86798.html
+[u'unarmed', u'arizona', u'man', u'killed', u'by', u'cop'] [u'unarmed', u'arizona', u'man', u'killed', u'by', u'cop'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-10_128436.html
+[u'police', u':', u'man', u',', u'woman', u'killed', u'in', u'shooting', u'at', u'fresno', u'medical', u'office'] [u'police', u':', u'man', u',', u'woman', u'killed', u'in', u'shooting', u'at', u'fresno', u'medical', u'office'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-31_1033487.html
+[u'dublin', u':', u'as', u'officer', u'recovers', u'after', u'collision', u',', u'four', u'await', u'arraignment'] [u'dublin', u':', u'as', u'officer', u'recovers', u'after', u'collision', u',', u'four', u'await', u'arraignment'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/f495.html
+[u'three', u'rivers', u'police', u'kill', u'man', u'during', u'scuffle'] [u'three', u'rivers', u'police', u'kill', u'man', u'during', u'scuffle'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-23_3492.html
+[] [] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g2787.html
+[u'man', u'fails', u'drunk', u'driving', u'test', u'after', u'telling', u'police', u'he\u2019s', u'going', u'to', u'kill', u'them', u'all'] [u'man', u'fails', u'drunk', u'driving', u'test', u'after', u'telling', u'police', u'he\u2019s', u'going', u'to', u'kill', u'them', u'all'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-25_134743.html
+[u'putin\u2019s', u'victory', u'day', u',', u'not', u'my', u'grandmother\u2019s'] [u'putin\u2019s', u'victory', u'day', u',', u'not', u'my', u'grandmother\u2019s'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-30_1024103.html
+[u'ex-lynwood', u'cop', u'charged', u'in', u'alleged', u'beating', u'of', u'handcuffed', u'suspect'] [u'ex-lynwood', u'cop', u'charged', u'in', u'alleged', u'beating', u'of', u'handcuffed', u'suspect'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g10249.html
+[u'yemen', u'car', u'bomb', u'attack', u'kills', u'more', u'than', u'50', u'at', u'police', u'academy'] [u'yemen', u'car', u'bomb', u'attack', u'kills', u'more', u'than', u'50', u'at', u'police', u'academy'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-01_1034599.html
+[u'2', u'cleveland', u'officers', u'still', u'in', u'jeopardy', u'over', u'tamir', u'rice', u'case'] [u'2', u'cleveland', u'officers', u'still', u'in', u'jeopardy', u'over', u'tamir', u'rice', u'case'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-12_925818.html
+[u'twarek', u'indicted', u'on', u'murder', u'charges'] [u'twarek', u'indicted', u'on', u'murder', u'charges'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-17_131298.html
+[u'dramatic', u'video', u':', u'man', u'burned', u'trying', u'to', u'kill', u'bedbugs', u'inside', u'rental', u'car', u'on', u'long', u'island'] [u'dramatic', u'video', u':', u'man', u'burned', u'trying', u'to', u'kill', u'bedbugs', u'inside', u'rental', u'car', u'on', u'long', u'island'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g12516.html
+[u'in', u'pictures', u':', u'kosher', u'grocery', u'attack', u'in', u'paris'] [u'paris', u'attacks', u':', u'moment', u'armed', u'police', u'storm', u'kosher', u'supermarket', u'shooting', u'gunman', u'and', u'freeing', u'hostages'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-11_919710.html
+[u'indiana', u'man', u'convicted', u'in', u'3', u'deaths', u'challenges', u'1', u'death', u'penalty'] [u'indiana', u'man', u'convicted', u'in', u'3', u'deaths', u'challenges', u'1', u'death', u'penalty'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-08-13_g50738.html
+[u'true', u'detective', u':', u'vinci', u'becomes', u'a', u'war', u'zone'] [u'true', u'detective', u':', u'vinci', u'becomes', u'a', u'war', u'zone'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-01_859159.html
+[u'the', u'latest', u':', u'protesters', u'vow', u'to', u'stay', u'outside', u'police', u'station'] [u'the', u'latest', u':', u'protesters', u'vow', u'to', u'stay', u'outside', u'police', u'station'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-07_94197.html
+[u'5', u'dead', u',', u'18', u'wounded', u'in', u'weekend', u'shootings'] [u'5', u'dead', u',', u'18', u'wounded', u'in', u'weekend', u'shootings'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-28_1010197.html
+[u'troopers', u':', u'brick', u'smashes', u'car', u"'s", u'windwhield', u'on', u'new', u'york', u'parkway'] [u'troopers', u':', u'brick', u'smashes', u'car', u"'s", u'windwhield', u'on', u'new', u'york', u'parkway'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/f384.html
+[u'family', u'disputes', u'oakland', u'police', u'version', u'of', u'fatal', u'shooting'] [u'family', u'disputes', u'oakland', u'police', u'version', u'of', u'fatal', u'shooting'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-06_88326.html
+[u'sydney', u'hostage', u'siege', u'ends', u'with', u'gunman', u'and', u'2', u'captives', u'dead', u'as', u'police', u'storm', u'cafe'] [u'sydney', u'hostage', u'siege', u'ends', u'with', u'gunman', u'and', u'2', u'captives', u'dead', u'as', u'police', u'storm', u'cafe'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-30_136470.html
+[u'press', u'herald', u',', u'three', u'staffers', u'win', u'regional', u'emmys'] [u'press', u'herald', u',', u'three', u'staffers', u'win', u'regional', u'emmys'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-29_1016288.html
+[u'legislators', u'prefile', u'bill', u'to', u'stiffen', u'penalties', u'for', u'killing', u'police', u'dogs'] [u'legislators', u'prefile', u'bill', u'to', u'stiffen', u'penalties', u'for', u'killing', u'police', u'dogs'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-08_1073503.html
+[u'fifa', u':', u'le', u'r\xeave', u'bris\xe9', u'de', u'michel', u'platini'] [u"l'ancien", u'num\xe9ro', u'10', u'de', u"l'\xe9quipe", u'de', u'france', u'a', u'annonc\xe9', u'le', u'retrait', u'de', u'sa', u'candidature', u'au', u'poste', u'de', u'pr\xe9sident', u'de', u'la', u'f\xe9d\xe9ration', u'internationale', u'de', u'football', u'(', u'fifa', u')', u'.', u'il', u'dit', u'd\xe9sormais', u'vouloir', u'assurer', u'sa', u'd\xe9fense', u'.'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-10_110698.html
+[u'google_ad_section_start', u'(', u'name=story_headline', u',', u'weight=high', u')', u'police', u'seek', u'man', u'after', u'woman', u'filmed', u'in', u'toilet', u'at', u'fitzroy', u'bar', u'google_ad_section_end', u'(', u'name=story_headline', u')'] [u'police', u'seek', u'man', u'after', u'woman', u'filmed', u'in', u'toilet', u'at', u'fitzroy', u'bar'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-26_135822.html
+[u'police', u':', u'man', u'dies', u'during', u'shooting', u'at', u'jonesboro', u'home'] [u'police', u':', u'man', u'dies', u'during', u'shooting', u'at', u'jonesboro', u'home'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-30_136429.html
+[u'family', u'of', u'teen', u'killed', u'by', u'police', u'files', u'federal', u'suit'] [u'family', u'of', u'teen', u'killed', u'by', u'police', u'files', u'federal', u'suit'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-25_1000569.html
+[u'teen', u'who', u'killed', u'co-worker', u'claims', u'he', u'was', u'provoked'] [u'teen', u'who', u'killed', u'co-worker', u'claims', u'he', u'was', u'provoked'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-19_969697.html
+[u'kansas', u'city', u'police', u'investigate', u'shooting', u'death'] [u'kansas', u'city', u'police', u'investigate', u'shooting', u'death'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/f54.html
+[u'08/22/2012'] [u'08/22/2012', u'posted', u'on', u'aug', u'22', u',', u'2012', u'in', u'press', u'releases'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-07_897130.html
+[u'police', u':', u'suspects', u'attached', u'chain', u'to', u'morgan', u'park', u'atm', u'and', u'drove', u'away'] [u'police', u':', u'suspects', u'attached', u'chain', u'to', u'morgan', u'park', u'atm', u'and', u'drove', u'away'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g12781.html
+[u'police', u'kill', u'six', u'attackers', u'in', u'china`s', u'xinjiang', u':', u'govt'] [u'police', u'kill', u'six', u'attackers', u'in', u'china`s', u'xinjiang', u':', u'govt'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-08-14_g79042.html
+[u"'i", u"'m", u'going', u'to', u'shoot', u'you', u',', u"'", u'patron', u'told', u'orange', u'county', u'deputy', u',', u'report', u'says'] [u"'i", u"'m", u'going', u'to', u'shoot', u'you', u',', u"'", u'patron', u'told', u'orange', u'county', u'deputy', u',', u'report', u'says'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-09_103855.html
+[u'two', u'denver', u'police', u'officers', u'fatally', u'shoot', u'16-year-old', u'girl'] [u'two', u'denver', u'police', u'officers', u'fatally', u'shoot', u'16-year-old', u'girl'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g13016.html
+[u'update', u':', u'oconto', u'county', u'officials', u'identify', u'drivers', u'killed', u'in', u'crash'] [u'oconto', u'county', u'officials', u'identify', u'drivers', u'killed', u'in', u'crash'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-10_919348.html
+[u'man', u'who', u'shot', u'tulane', u'student', u'now', u'linked', u'to', u'rape', u'&', u'kidnap', u',', u'police', u'say'] [u'man', u'who', u'shot', u'tulane', u'student', u'now', u'linked', u'to', u'rape', u'&', u'kidnap', u',', u'police', u'say'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g5621.html
+[u'video', u'shows', u'moments', u'before', u'police', u'shooting', u'in', u'missouri'] [u'video', u'shows', u'moments', u'before', u'police', u'shooting', u'near', u'ferguson', u',', u'missouri'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-14_936098.html
+[u'lower', u'house', u'endorses', u'amendments', u'to', u'army', u'officers', u"'", u'law'] [u'lower', u'house', u'endorses', u'amendments', u'to', u'army', u'officers', u"'", u'law'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-06_1065529.html
+[u'former', u'police', u'chief', u'sentenced', u'in', u'child', u'porn', u'case'] [u'former', u'police', u'chief', u'sentenced', u'in', u'child', u'porn', u'case'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-09_912735.html
+[u'new', u'orleans', u'man', u'who', u'tried', u'to', u'kill', u'good', u'samaritan', u'tulane', u'medical', u'student', u'raped', u'a', u'couple', u'the', u'next', u'day', u':', u'police'] [u'new', u'orleans', u'man', u'who', u'tried', u'to', u'kill', u'good', u'samaritan', u'tulane', u'medical', u'student', u'raped', u'a', u'couple', u'the', u'next', u'day', u':', u'police'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-29_136258.html
+[u'senior', u'citizen', u'killed', u'in', u'clinton', u'township', u'crash', u';', u'police', u'search', u'for', u'witnesses'] [u'senior', u'citizen', u'killed', u'in', u'clinton', u'township', u'crash', u';', u'police', u'search', u'for', u'witnesses'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-29_136281.html
+[u'police', u'kill', u'man', u'attacking', u'officers', u'with', u'lawnmower', u'blade'] [u'police', u'kill', u'man', u'attacking', u'officers', u'with', u'lawnmower', u'blade'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-25_135241.html
+[u'husband', u'kills', u'man', u'at', u'estranged', u'wife', u"'s", u'home', u'in', u'jefferson', u'county', u',', u'then', u'kills', u'himself'] [u'husband', u'kills', u'man', u'at', u'estranged', u'wife', u"'s", u'home', u'in', u'jefferson', u'county', u',', u'then', u'kills', u'himself'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g10468.html
+[u'citizens', u'battle', u'over', u'smoking', u'ban', u'at', u'no', u'council', u'meeting'] [u'citizens', u'battle', u'over', u'smoking', u'ban', u'at', u'no', u'council', u'meeting'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-28_136135.html
+[u'police', u'seek', u'hit-and-run', u'driver', u'who', u'killed', u'bicyclist', u'in', u'harlem'] [u'police', u'seek', u'hit-and-run', u'driver', u'who', u'killed', u'bicyclist', u'in', u'harlem'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-23_363.html
+[u'two', u'cousins', u'from', u'western', u'alaska', u',', u'shot', u'dead', u'in', u'same', u'neighborhood', u'by', u'police'] [u'two', u'cousins', u'from', u'western', u'alaska', u',', u'shot', u'dead', u'in', u'same', u'neighborhood', u'by', u'police'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-08-01_g36492.html
+[u'clewiston', u'men', u'arrested', u'for', u'stealing', u'bank', u'atm'] [u'clewiston', u'men', u'arrested', u'for', u'stealing', u'bank', u'atm'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-27_135962.html
+[u'police', u'id', u'15-year-old', u'girl', u'killed', u'in', u'tuesday', u'shooting'] [u'police', u'id', u'15-year-old', u'girl', u'killed', u'in', u'tuesday', u'shooting'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g13249.html
+[u'police', u'protestors', u'plan', u'\u201cdie-in\u201d', u'at', u'farm', u'show'] [u'police', u'protestors', u'plan', u'\u201cdie-in\u201d', u'at', u'farm', u'show'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g5464.html
+[u'exhausted', u'sierra', u'leone', u'medics', u'battle', u'ebola', u'in', u'the', u"'red", u'zone', u"'"] [u'exhausted', u'sierra', u'leone', u'medics', u'battle', u'ebola', u'in', u'the', u"'red", u'zone', u"'"] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-10_115298.html
+[] [] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/f338.html
+[u'fourth', u'oakland', u'officer', u'involved', u'in', u'saturday', u"'s", u'shootings', u'dies'] [u'fourth', u'oakland', u'officer', u'involved', u'in', u'saturday', u"'s", u'shootings', u'dies'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-20_971794.html
+[u'closing', u'schools', u'for', u'terrorist', u'threats'] [u'closing', u'schools', u'for', u'terrorist', u'threats'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-24_996497.html
+[u'masked', u'gunmen', u'attack', u'apc', u'leader', u'in', u'rivers', u'state', u',', u'murder', u'police', u'escort'] [u'masked', u'gunmen', u'attack', u'apc', u'leader', u'in', u'rivers', u'state', u',', u'murder', u'police', u'escort'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-28_136182.html
+[u'oklahoma', u'city', u'man', u'dies', u'after', u'police', u'chase'] [u'oklahoma', u'city', u'man', u'dies', u'after', u'police', u'chase'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g9000.html
+[u'ghana\u2019s', u'nsd', u'participation', u'must', u'be', u'made', u'compulsory', u'\u2013', u'kofi', u'boakye'] [u'ghana\u2019s', u'nsd', u'participation', u'must', u'be', u'made', u'compulsory', u'\u2013', u'kofi', u'boakye'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-27_135928.html
+[u'police', u'shoot', u',', u'kill', u'armed', u'man', u'holding', u'17-month-old', u'hostage', u'in', u'north', u'middletown'] [u'police', u'shoot', u',', u'kill', u'armed', u'man', u'holding', u'17-month-old', u'hostage', u'in', u'north', u'middletown'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g12615.html
+[u'man', u'commits', u'suicide', u'after', u'friday', u'crash', u'kills', u'1', u',', u'injures', u'other'] [u'man', u'commits', u'suicide', u'after', u'friday', u'crash', u'kills', u'1', u',', u'injures', u'other'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-13_933216.html
+[u'\u2018learn', u'cpr\u2019', u'urges', u'survivor'] [u'\xe2\u20ac\u02dclearn', u'cpr\xe2\u20ac\u2122', u'urges', u'survivor'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-26_1002971.html
+[u'couple', u'bludgeoning', u',', u'child', u'scalding', u',', u'grandfather', u'takedown', u'top', u'list', u'of', u'2015', u'crimes'] [u'couple', u'bludgeoning', u',', u'child', u'scalding', u',', u'grandfather', u'takedown', u'top', u'list', u'of', u'2015', u'crimes'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-15_947056.html
+[u'star', u'wars', u'special', u':', u're-awakening', u'the', u'force', u'within'] [u'star', u'wars', u'special', u':', u're-awakening', u'the', u'force', u'within'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-08-13_f3761.html
+[u'family', u'of', u'keyes', u'man', u'killed', u'calls', u'shooting', u'\u2018abuse', u'of', u'power\u2019'] [u'family', u'of', u'keyes', u'man', u'killed', u'calls', u'shooting', u'\xe2\u20ac\u02dcabuse', u'of', u'power\xe2\u20ac\u2122'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-27_1005366.html
+[u'2', u'officer-involved', u'shootings', u'draws', u'new', u'scrutiny', u'to', u'cpd'] [u'2', u'officer-involved', u'shootings', u'draws', u'new', u'scrutiny', u'to', u'cpd'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-06_88085.html
+[u'law', u'and', u'order', u'metro', u'police', u':', u'officer', u'shot', u',', u'teenage', u'gunman', u'killed', u'after', u'sunday', u'night', u'shootout'] [u'officer', u'shot', u',', u'teenage', u'gunman', u'killed', u'after', u'sunday', u'night', u'shootout'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-26_135731.html
+[u'police', u':', u'1', u'killed', u'at', u'east', u'tn', u'trace', u'adkins', u'concert'] [u'police', u':', u'1', u'killed', u'at', u'east', u'tn', u'trace', u'adkins', u'concert'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-08_900769.html
+[u'manchester', u'united', u'must', u'beat', u'wolfsburg', u'to', u'prove', u'they', u'belong', u'in', u'champions', u'league', u',', u'says', u'louis', u'van', u'gaal'] [u'manchester', u'united', u'must', u'beat', u'wolfsburg', u'to', u'prove', u'they', u'belong', u'in', u'champions', u'league', u',', u'says', u'louis', u'van', u'gaal'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-22_984144.html
+[u'$', u'28.6', u'million', u'civil', u'judgment', u'upheld', u'for', u'farren', u"'s", u'wife'] [u'$', u'28.6', u'million', u'civil', u'judgment', u'upheld', u'for', u'farren', u"'s", u'wife'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-07_91627.html
+[u'man', u'told', u'police', u'to', u'\u2018just', u'kill', u'me\u2019', u'before', u'being', u'shot'] [u'man', u'told', u'police', u'to', u'\u2018just', u'kill', u'me\u2019', u'before', u'being', u'shot'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-17_955475.html
+[u'nigeria', u':', u"shi'ites", u'killings', u'-', u'amnesty', u'international', u'slams', u'military', u',', u'calls', u'for', u'urgent', u'investigation'] [u'nigeria', u':', u"shi'ites", u'killings', u'-', u'amnesty', u'international', u'slams', u'military', u',', u'calls', u'for', u'urgent', u'investigation'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g6519.html
+[u'guyana', u'police', u'arrest', u'man', u'suspected', u'of', u'killing', u'3'] [u'guyana', u'police', u'arrest', u'man', u'suspected', u'of', u'killing', u'3'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-04_877787.html
+[u'the', u'latest', u':', u'people', u'protesting', u'officer', u"'s", u'shooting', u'of', u'black', u'man', u'wind', u'through', u'minneapolis'] [u'the', u'latest', u':', u'people', u'protesting', u'officer', u"'s", u'shooting', u'of', u'black', u'man', u'wind', u'through', u'minneapolis'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-05_1056531.html
+[u'gene', u'stallings', u':', u"'6", u'or', u'8', u"'", u'sec', u'teams', u'could', u"'ve", u'beat', u'michigan', u'state', u',', u'talks', u'dabo', u'swinney', u',', u"'91", u'fiesta', u'bowl'] [u'gene', u'stallings', u':', u"'6", u'or', u'8', u"'", u'sec', u'teams', u'could', u"'ve", u'beat', u'michigan', u'state', u',', u'talks', u'dabo', u'swinney', u',', u"'91", u'fiesta', u'bowl'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g6511.html
+[u'recommended', u'on', u'the', u'mirror'] [u'billingshurst', u'double', u'death', u':', u'mum', u'and', u'dad', u'found', u'dead', u'on', u'christmas', u'day', u"'killed", u'themselves', u'because', u'of', u'money', u'worries', u"'"] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-16_130645.html
+[u'sand', u'springs', u'police', u':', u'fatal', u'shooting', u'an', u'unavoidable', u'tragedy'] [u'sand', u'springs', u'police', u':', u'fatal', u'shooting', u'an', u'unavoidable', u'tragedy'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-18_965012.html
+[u'illinois', u'cops', u'hit', u'a', u'dead', u'end', u'in', u'killing', u'of', u'lt.', u'charles', u"'joe", u"'", u'gliniewicz'] [u'illinois', u'cops', u'hit', u'a', u'dead', u'end', u'in', u'killing', u'of', u'lt.', u'charles', u"'joe", u"'", u'gliniewicz'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g11776.html
+[u'paris', u'prosecutor', u':', u'terror', u'suspect', u'killed', u'4', u'entering', u'grocery'] [u'paris', u'prosecutor', u':', u'terror', u'suspect', u'killed', u'4', u'entering', u'grocery'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2016-01-07_1069299.html
+[u'five', u'reasons', u'why', u'the', u'chiefs', u'will', u'beat', u'the', u'texans'] [u'five', u'reasons', u'why', u'the', u'chiefs', u'will', u'beat', u'the', u'texans'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-03_873456.html
+[u'ex-detroit', u'principal', u'to', u'plead', u'guilty', u'in', u'corruption', u'probe'] [u'ex-detroit', u'principal', u'to', u'plead', u'guilty', u'in', u'corruption', u'probe'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/f98.html
+[u'2', u'boston', u'police', u'officers', u'shot', u',', u'one', u'suspect', u'killed', u'in', u'dorchester'] [u'2', u'boston', u'police', u'officers', u'shot', u',', u'one', u'suspect', u'killed', u'in', u'dorchester'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-25_133343.html
+[u'police', u':', u'dad', u'killed', u'adopted', u'3-year-old', u'daughter'] [u'police', u':', u'dad', u'killed', u'adopted', u'3-year-old', u'daughter'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g1670.html
+[] [u'barberton', u'funeral', u'directors', u'recruited', u'to', u'help', u'keep', u'unused', u'prescription', u'meds', u'out', u'of', u'wrong', u'hands'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/g4790.html
+[u'cop', u'killings', u'continue', u'as', u'police', u'officer', u'is', u'shot', u'and', u'killed', u'in', u'tarpon', u'springs', u',', u'florida'] [u'cop', u'killings', u'continue', u'as', u'police', u'officer', u'is', u'shot', u'and', u'killed', u'in', u'tarpon', u'springs', u',', u'florida'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-05_86464.html
+[u'factcheck', u':', u'how', u'many', u'black', u'americans', u'are', u'killed', u'by', u'the', u'police', u'?'] [u'factcheck', u':', u'how', u'many', u'black', u'americans', u'are', u'killed', u'by', u'the', u'police', u'?'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-04-09_103060.html
+[u'worldbulletin', u'news', u'worldbulletin', u'news', u'portal'] [u'at', u'least', u'30', u'philippines', u'police', u'die', u'in', u'clash', u'with', u'rebels'] False
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-23_993616.html
+[u'protect', u'and', u'serve', u':', u'richmond', u'county', u'deputy', u'mathew', u'sanderson', u'and', u'corporal', u'jason', u'turner'] [u'protect', u'and', u'serve', u':', u'richmond', u'county', u'deputy', u'mathew', u'sanderson', u'and', u'corporal', u'jason', u'turner'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-21_978966.html
+[u'6', u'american', u'soldiers', u'killed', u'in', u'taliban', u'attack', u'in', u'afghanistan'] [u'6', u'american', u'soldiers', u'killed', u'in', u'taliban', u'attack', u'in', u'afghanistan'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-07-31_g5329.html
+[u'in', u'wake', u'of', u'fatal', u'shooting', u',', u'louisville', u'cops', u'shut', u'down', u'station', u'rather', u'than', u'meet', u'with', u'local', u'police-reform', u'advocates'] [u'in', u'wake', u'of', u'fatal', u'shooting', u',', u'louisville', u'cops', u'shut', u'down', u'station', u'rather', u'than', u'meet', u'with', u'local', u'police-reform', u'advocates'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-12-16_949806.html
+[u'star', u'wars', u':', u'the', u'force', u'awakens', u'movie', u'review', u'(', u'spoiler', u'free', u')'] [u'star', u'wars', u':', u'the', u'force', u'awakens', u'movie', u'review', u'(', u'spoiler', u'free', u')'] True
+Predicting http://hobbes.cs.umass.edu/~ranga/scrap/2015-05-26_135700.html
+[u'egyptian', u'officials', u'investigate', u'police', u'killing', u'of', u'student'] [u'egyptian', u'officials', u'investigate', u'police', u'killing', u'of', u'student'] True
+([0.9411764705882353, 0.8529411764705882, 0.8235294117647058], 0.872549019607843, 102)
